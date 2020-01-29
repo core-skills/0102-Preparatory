@@ -4,6 +4,10 @@
 
 The aim of this week's sessions is to bring everyone up to speed with the format of the workshop, as well as introduce the tools used across the program.
 
+## Follow the slides
+
+You can follow along on [google slides](https://docs.google.com/presentation/d/1aMQpImTrk4XDMiihUrS7XXsHTvUoPBL3QgviwxMoRbo/edit?usp=sharing)
+
 
 ## Pre-session Reading & Resources
 
