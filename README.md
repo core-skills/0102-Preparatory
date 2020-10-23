@@ -1,6 +1,6 @@
 # Core skills program - week 0 - Prerequisite
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/core-skills/00-Prerequesite/master?filepath=notebooks%2FIntro_to_python_pandas.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/core-skills/00-Prerequesite/master?filepath=notebooks)
 
 The aim of this week's sessions is to bring everyone up to speed with the format of the workshop, as well as introduce the tools used across the program.
 
