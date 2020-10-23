@@ -1,4 +1,4 @@
-# Core skills program - week 0 - Prerequisite
+# CORE Skills Data Science Springboard - Days 1&2 - Prerequisite
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/core-skills/00-Prerequesite/master?filepath=notebooks)
 
@@ -15,7 +15,7 @@ Throughout the course we will attempt to stick some interesting links in this do
 
 The links below are for some additional (broader) info, the presentations and notebooks presented in the workshop include detailed info on version control and using Python and Jupyter notebooks for data exploration.
 
-- Version control and working in teams using Git, [Git Kraken](https://www.gitkraken.com/git-client) and [Github](https://help.github.com/)
+- Version control and working in teams using Git, [Github](https://help.github.com/), [GitHub Desktop Client](https://desktop.github.com/) (or [GitKraken](https://www.gitkraken.com/git-client))
 - Using Anaconda for package management ([cheatsheet](https://conda.io/docs/_downloads/conda-cheatsheet.pdf)) and [setting up environments](https://medium.com/datareply/working-with-python-environments-anaconda-package-manager-and-ides-663e771b6ed8)
 - Python, and 
 - [Jupyter Notebooks](http://jupyter.org/)
