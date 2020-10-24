@@ -1,4 +1,4 @@
-name: week01
+name: core00
 
 channels:
   # Conda forge - gives us lots of community-built Python packages, see https://conda-forge.org/ for details
@@ -13,5 +13,8 @@ dependencies:
   - seaborn
   - patsy
   - ipykernel
+  - jupyter
+  - jupyterlab
+  - astropy
   # - pip:
   #   - pip-installable dependencies go here. Prefer Conda ones if possible...
