@@ -6,7 +6,7 @@ The aim of this week's sessions is to bring everyone up to speed with the format
 
 ## Follow the slides
 
-You can follow along on [google slides](https://docs.google.com/presentation/d/1aMQpImTrk4XDMiihUrS7XXsHTvUoPBL3QgviwxMoRbo/edit?usp=sharing)
+You can follow along on [google slides](https://docs.google.com/presentation/d/1nf_16p77cqhiS3SmDysU2PdirJj6HGEPKbsI9LcQ5JY/edit?usp=sharing)
 
 
 ## Pre-session Reading & Resources
