@@ -1,7 +1,5 @@
 # CORE Skills Data Science Springboard - Days 1&2 - Prerequisite
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/core-skills/00-Prerequesite/master?filepath=notebooks)
-
 The aim of this week's sessions is to bring everyone up to speed with the format of the workshop, as well as introduce the tools used across the program.
 
 ## Follow the slides
