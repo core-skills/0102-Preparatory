@@ -1,4 +1,4 @@
-# CORE Skills Data Science Springboard - Days 1&2 - Preparatory
+# CORE Skills Data Science Springboard - Days 1 & 2 - Preparatory
 
 The aim of this week's sessions is to bring everyone up to speed with the format of the workshop, as well as introduce the tools used across the program.
 
