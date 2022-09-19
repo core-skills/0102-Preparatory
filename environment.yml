@@ -1,4 +1,4 @@
-name: core00
+name: 0102-preparatory
 
 channels:
   # Conda forge - gives us lots of community-built Python packages, see https://conda-forge.org/ for details
